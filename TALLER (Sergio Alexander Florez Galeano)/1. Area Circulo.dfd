@@ -1,0 +1,21 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+5
+Radio
+6
+1
+2
+pi
+8
+3.141516
+4
+1
+61
+'El area del circulo con radio: ', Radio, ' es: ', pi*Radio^2
+1

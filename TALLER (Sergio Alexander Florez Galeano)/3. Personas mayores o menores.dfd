@@ -1,0 +1,120 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+11
+contador_ma
+1
+0
+11
+contador_me
+1
+0
+5
+1
+56
+Persona_1, Persona_2 , Persona_3 ,Persona_4  , Persona_5
+7
+0
+1
+13
+Persona_1 >17
+6
+1
+11
+contador_me
+15
+contador_me + 1
+13
+6
+1
+11
+contador_ma
+14
+contador_ma +1
+13
+7
+0
+1
+13
+Persona_2 >17
+6
+1
+11
+contador_me
+15
+contador_me + 1
+13
+6
+1
+11
+contador_ma
+15
+contador_ma + 1
+13
+7
+0
+1
+13
+Persona_3 >17
+6
+1
+11
+contador_me
+15
+contador_me + 1
+13
+6
+1
+11
+contador_ma
+15
+contador_ma + 1
+13
+7
+0
+1
+13
+Persona_4 >17
+6
+1
+11
+contador_me
+15
+contador_me + 1
+13
+6
+1
+11
+contador_ma
+15
+contador_ma + 1
+13
+7
+0
+1
+13
+Persona_5 >17
+6
+1
+11
+contador_me
+15
+contador_me + 1
+13
+6
+1
+11
+contador_ma
+15
+contador_ma + 1
+13
+4
+1
+75
+'Hay ' , contador_ma , ' personas mayores y ' , contador_me , ' menores. ' 
+1
